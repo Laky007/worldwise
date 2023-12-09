@@ -1,0 +1,172 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "Loved the people",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-05T15:28:14.505Z",
+      "notes": "Muy bueno",
+      "position": {
+        "lat": "41.40462579877841",
+        "lng": "2.1958923339843754"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Amsterdam",
+      "country": "Netherlands (the)",
+      "emoji": "🇳🇱",
+      "date": "2023-10-05T16:04:27.315Z",
+      "notes": "ñoo",
+      "position": {
+        "lat": "52.3688917060255",
+        "lng": "4.899902343750001"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Brussels",
+      "country": "Belgium",
+      "emoji": "🇧🇪",
+      "date": "2023-10-05T16:04:41.952Z",
+      "notes": "11",
+      "position": {
+        "lat": "50.8267584823633",
+        "lng": "4.361572265625001"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Malmo",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2023-10-05T16:05:14.641Z",
+      "notes": "24",
+      "position": {
+        "lat": "55.60938408809366",
+        "lng": "13.0078125"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-10-05T16:05:31.264Z",
+      "notes": "ouiiii",
+      "position": {
+        "lat": "48.852969123136674",
+        "lng": "2.3455810546875004"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Greater London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-10-05T16:05:59.860Z",
+      "notes": "14",
+      "position": {
+        "lat": "51.481382896100975",
+        "lng": "-0.12084960937500001"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Alta Gracia",
+      "country": "Argentina",
+      "emoji": "🇦🇷",
+      "date": "2023-10-05T16:06:46.314Z",
+      "notes": "paaaa",
+      "position": {
+        "lat": "-31.657618920857",
+        "lng": "-64.43387031555177"
+      },
+      "id": 98443210
+    },
+    {
+      "cityName": "New York City",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-10-05T16:07:13.556Z",
+      "notes": "14",
+      "position": {
+        "lat": "40.77638178482896",
+        "lng": "-73.97558212280275"
+      },
+      "id": 98443211
+    },
+    {
+      "cityName": "Monaco",
+      "country": "Monaco",
+      "emoji": "🇲🇨",
+      "date": "2023-10-05T17:58:47.633Z",
+      "notes": "z<x",
+      "position": {
+        "lat": "43.728436967960704",
+        "lng": "7.419204711914063"
+      },
+      "id": 98443213
+    },
+    {
+      "cityName": "Dublin",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2023-10-05T18:06:09.771Z",
+      "notes": "xz",
+      "position": {
+        "lat": "53.34563258586094",
+        "lng": "-6.267700195312501"
+      },
+      "id": 98443214
+    },
+    {
+      "cityName": "Algiers",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-10-09T15:48:24.374Z",
+      "notes": "gg",
+      "position": {
+        "lat": "36.767492156196745",
+        "lng": "3.0651855468750004"
+      },
+      "id": 98443215
+    }
+  ]
+}
